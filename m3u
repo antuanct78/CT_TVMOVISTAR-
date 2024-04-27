@@ -1,0 +1,10 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
+
+#EXTINF:-1 group-title="27/04/2024-22:23:27 (9 horas directo)" group-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MPLUS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MPLUS", Mensaje informativo
+https://
+
+#EXTINF: -1 tvg-name="13 TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/13TV" group-title="Informativos", 13 TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"gglU8t9S0XFkS0Na8FYzdQ","kid":"YS6tV6AfT+qHr0mCMawtsQ"}],"type":"temporary"}
+https://cutv-wp21.cdn.telefonica.com/5094/vxfmt=dp/Manifest.mpd?device_profile=DASH_TV_WIDEVINE&start_time=&start_time=2024-04-27T21:23:12Z&end_time=2024-04-28T06:23:27Z
