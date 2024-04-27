@@ -15,3 +15,27 @@ https://
 #EXTVLCOPT:http-referer=https://bitmovin.com/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+
+
+#EXTINF: -1 tvg-name="DAZN LaLiga" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/DAZNLI" group-title="DAZN", DAZN LaLiga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=43d1c3b25207ff38b22ccfe17d302367&key=7b1f85f6e81059473b114c16a25c829a
+#EXTVLCOPT:http-referer=https://bitmovin.com/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+
+
+#EXTINF: -1 tvg-name="DAZN LaLiga" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/DAZNLI" group-title="DAZN", DAZN LaLiga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=43d1c3b25207ff38b22ccfe17d302367&key=7b1f85f6e81059473b114c16a25c829a
+#EXTVLCOPT:http-referer=https://bitmovin.com/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
