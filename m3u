@@ -14,7 +14,7 @@ https://
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
-#EXTINF: -1 tvg-name="DAZN LaLiga" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/DAZNLI" group-title="DAZN", DAZN LaLiga
+#EXTINF: -1 tvg-name="LaLiga TV Hypermotion" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MLIGS" group-title="LaLiga TV Hypermotion", LaLiga TV Hypermotion
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
