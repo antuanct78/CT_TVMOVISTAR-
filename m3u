@@ -4,8 +4,6 @@
 #EXTINF:-1 group-title="28/04/2024-00:03:54 (9 horas directo)" group-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MPLUS" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/MPLUS", Mensaje informativo
 https://
 
-
-
 #EXTINF: -1 tvg-name="DAZN LaLiga" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/DAZNLI" group-title="DAZN", DAZN LaLiga
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
@@ -16,8 +14,6 @@ https://
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
-
-
 #EXTINF: -1 tvg-name="DAZN LaLiga" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/DAZNLI" group-title="DAZN", DAZN LaLiga
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
@@ -27,8 +23,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 #EXTVLCOPT:http-referer=https://bitmovin.com/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
-
-
 
 #EXTINF: -1 tvg-name="DAZN LaLiga" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/DAZNLI" group-title="DAZN", DAZN LaLiga
 #KODIPROP:inputstream.adaptive.license_type=clearkey
