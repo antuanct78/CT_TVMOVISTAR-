@@ -1,4 +1,4 @@
-#EXTINF: -1 tvg-name="13 TV" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/13TV" group-title="Informativos", 13 TV
+#EXTINF: -1 tvg-name="DAZN LaLiga" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/DAZNLI" group-title="DAZN", DAZN LaLiga
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
